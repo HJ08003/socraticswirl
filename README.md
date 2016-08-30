@@ -8,7 +8,7 @@ To install the package, copy and paste the following into your R terminal:
 ``` r
 install.packages("devtools")
 devtools::install_github("dgrtwo/rparse")
-devtools::install_github("dimagor/socraticswirl", ref="socraticswirl")
+devtools::install_github("HJ08003/socraticswirl", ref="socraticswirl")
 ```
 
 Your instructor will provide you the application key, REST API key and instructor ID. Then, you need to initialize the SocraticSwirl software once in R or RStudio. Suppose you already have the application key, api key and id,
